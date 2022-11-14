@@ -1,5 +1,3 @@
-# Desafío 22
-
 ## Reformar para usar GraphQL
 
 ### Consignas
